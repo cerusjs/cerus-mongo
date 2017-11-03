@@ -1,0 +1,19 @@
+{
+	"name": "cerus-mongo",
+	"version": "0.0.1",
+	"description": "The mongo driver for the database module",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/cerusjs/cerus-mongo.git"
+	},
+	"author": "cerusjs",
+	"bugs": {
+		"url": "https://github.com/cerusjs/cerus-mongo/issues"
+	},
+	"scripts": {},
+	"homepage": "https://github.com/cerusjs/cerus-mongo",
+	"dependencies": {
+		"mongojs": "^2.4.1"
+	}
+}
